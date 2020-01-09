@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49ed28dfe66b0889a5b0b1c042255013",
+    "revision": "20d381958846b7428c256d848a03c8ea",
     "url": "/MrStoreCMS/index.html"
   },
   {
-    "revision": "b365eaae08ba1d1e13de",
-    "url": "/MrStoreCMS/static/css/main.0ba02492.chunk.css"
+    "revision": "fd0c45c61736af5daf32",
+    "url": "/MrStoreCMS/static/css/main.1ef83eef.chunk.css"
   },
   {
     "revision": "d066843555b2ada76740",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MrStoreCMS/static/js/2.f80ce909.chunk.js.LICENSE"
   },
   {
-    "revision": "b365eaae08ba1d1e13de",
+    "revision": "fd0c45c61736af5daf32",
     "url": "/MrStoreCMS/static/js/main.08704e20.chunk.js"
   },
   {
