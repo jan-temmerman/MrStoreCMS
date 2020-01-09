@@ -10,6 +10,7 @@ const App = () => {
 	const [mugsAmount, setMugsAmount] = useState(0)
 	const [pringlesPurpleAmount, setPringlesPurpleAmount] = useState(0)
 	const [pringlesRedAmount, setPringlesRedAmount] = useState(0)
+	const [totalItems, setTotalItems] = useState(0) 
 
 	const [errorContent, setError] = useState("")
 
@@ -55,8 +56,9 @@ const App = () => {
 	}
 
 	const checkTotalAmount = () => {
-		let totalItmes = (activiaAmount + cerealAmount + mugsAmount + pringlesRedAmount + pringlesPurpleAmount)
-		if(totalItmes > 36) {
+		let total = (activiaAmount + cerealAmount + mugsAmount + pringlesRedAmount + pringlesPurpleAmount)
+		setTotalItems(total)
+		if(total > 36) {
 			setError(<p className="error">Too much items. 36 total max.</p>)
 		} else 
 			setError("")
@@ -103,6 +105,7 @@ const App = () => {
 			
 			<form onSubmit={handleSubmit} method="post">
 				<h2>Aantal items op display</h2>
+					<p>Je gebruikt {totalItems} items</p>
 				{errorContent}
 					<label>
 						Aantal Activia
