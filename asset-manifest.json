@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/.github.io/MrStoreCMS/static/css/main.0ba02492.chunk.css",
-    "main.js": "/.github.io/MrStoreCMS/static/js/main.0b22d57e.chunk.js",
-    "main.js.map": "/.github.io/MrStoreCMS/static/js/main.0b22d57e.chunk.js.map",
-    "runtime-main.js": "/.github.io/MrStoreCMS/static/js/runtime-main.3e71f96d.js",
-    "runtime-main.js.map": "/.github.io/MrStoreCMS/static/js/runtime-main.3e71f96d.js.map",
-    "static/js/2.018ea000.chunk.js": "/.github.io/MrStoreCMS/static/js/2.018ea000.chunk.js",
-    "static/js/2.018ea000.chunk.js.map": "/.github.io/MrStoreCMS/static/js/2.018ea000.chunk.js.map",
-    "index.html": "/.github.io/MrStoreCMS/index.html",
-    "precache-manifest.044a9f343fd119116dee65f5d2b10c20.js": "/.github.io/MrStoreCMS/precache-manifest.044a9f343fd119116dee65f5d2b10c20.js",
-    "service-worker.js": "/.github.io/MrStoreCMS/service-worker.js",
-    "static/css/main.0ba02492.chunk.css.map": "/.github.io/MrStoreCMS/static/css/main.0ba02492.chunk.css.map",
-    "static/js/2.018ea000.chunk.js.LICENSE": "/.github.io/MrStoreCMS/static/js/2.018ea000.chunk.js.LICENSE"
+    "main.css": "/MrStoreCMS/static/css/main.0ba02492.chunk.css",
+    "main.js": "/MrStoreCMS/static/js/main.86a559dd.chunk.js",
+    "main.js.map": "/MrStoreCMS/static/js/main.86a559dd.chunk.js.map",
+    "runtime-main.js": "/MrStoreCMS/static/js/runtime-main.16600722.js",
+    "runtime-main.js.map": "/MrStoreCMS/static/js/runtime-main.16600722.js.map",
+    "static/js/2.f80ce909.chunk.js": "/MrStoreCMS/static/js/2.f80ce909.chunk.js",
+    "static/js/2.f80ce909.chunk.js.map": "/MrStoreCMS/static/js/2.f80ce909.chunk.js.map",
+    "index.html": "/MrStoreCMS/index.html",
+    "precache-manifest.3e78e52787563edfb812717c838d5ec3.js": "/MrStoreCMS/precache-manifest.3e78e52787563edfb812717c838d5ec3.js",
+    "service-worker.js": "/MrStoreCMS/service-worker.js",
+    "static/css/main.0ba02492.chunk.css.map": "/MrStoreCMS/static/css/main.0ba02492.chunk.css.map",
+    "static/js/2.f80ce909.chunk.js.LICENSE": "/MrStoreCMS/static/js/2.f80ce909.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e71f96d.js",
-    "static/js/2.018ea000.chunk.js",
+    "static/js/runtime-main.16600722.js",
+    "static/js/2.f80ce909.chunk.js",
     "static/css/main.0ba02492.chunk.css",
-    "static/js/main.0b22d57e.chunk.js"
+    "static/js/main.86a559dd.chunk.js"
   ]
 }
