@@ -1,5 +1,83 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+
+header {
+  background-color: black;
+  width: 100vw;
+  height: 80px;
+}
+
+h1 {
+  color: white;
+}
+
+#root {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: lightgray;
+}
+
+form {
+  margin: 20px;
+  text-align: left;
+  width: 30%;
+  padding: 20px;
+  border-radius: 10px;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+}
+
+h2 {
+  margin: 0;
+}
+
+
+label {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  padding: 4px;
+  border-radius: 4px;
+  border: 1px solid lightgray;
+  font-size: small;
+}
+
+.error {
+  padding: 8px;
+  margin: 10px;
+  border-radius: 4px;
+  border: 2px solid rgb(216, 60, 60);
+  background-color: rgb(245, 167, 167);
+  color: rgb(216, 60, 60);
+  font-size: medium;
+  font-weight: 700;
+}
+
+.button {
+  padding: 6px;
+  border-radius: 4px;
+  margin-top: 10px;
+  font-weight: 700;
+  color: white;
+  border: none;
+  font-size: medium;
+  background-color: rgb(111, 178, 219);
+  align-self: center;
+  width: 100px;
+}
+
+.button:hover {
+  background-color: rgb(70, 141, 185);
 }
 
 .App-logo {
