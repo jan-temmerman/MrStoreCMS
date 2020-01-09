@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MrStoreCMS/static/css/main.0ba02492.chunk.css",
-    "main.js": "/MrStoreCMS/static/js/main.b59c9daa.chunk.js",
-    "main.js.map": "/MrStoreCMS/static/js/main.b59c9daa.chunk.js.map",
+    "main.js": "/MrStoreCMS/static/js/main.08704e20.chunk.js",
+    "main.js.map": "/MrStoreCMS/static/js/main.08704e20.chunk.js.map",
     "runtime-main.js": "/MrStoreCMS/static/js/runtime-main.16600722.js",
     "runtime-main.js.map": "/MrStoreCMS/static/js/runtime-main.16600722.js.map",
     "static/js/2.f80ce909.chunk.js": "/MrStoreCMS/static/js/2.f80ce909.chunk.js",
     "static/js/2.f80ce909.chunk.js.map": "/MrStoreCMS/static/js/2.f80ce909.chunk.js.map",
     "index.html": "/MrStoreCMS/index.html",
-    "precache-manifest.0ae7ecc01c12e425886716bec5142f9b.js": "/MrStoreCMS/precache-manifest.0ae7ecc01c12e425886716bec5142f9b.js",
+    "precache-manifest.4fb3148a1b8bae6a2555f9daa71c19a3.js": "/MrStoreCMS/precache-manifest.4fb3148a1b8bae6a2555f9daa71c19a3.js",
     "service-worker.js": "/MrStoreCMS/service-worker.js",
     "static/css/main.0ba02492.chunk.css.map": "/MrStoreCMS/static/css/main.0ba02492.chunk.css.map",
     "static/js/2.f80ce909.chunk.js.LICENSE": "/MrStoreCMS/static/js/2.f80ce909.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.16600722.js",
     "static/js/2.f80ce909.chunk.js",
     "static/css/main.0ba02492.chunk.css",
-    "static/js/main.b59c9daa.chunk.js"
+    "static/js/main.08704e20.chunk.js"
   ]
 }
