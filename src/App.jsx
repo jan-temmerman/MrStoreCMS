@@ -110,6 +110,7 @@ const App = () => {
 					<label>
 						Aantal Activia
 						<input
+							min={0}
 							name="activiaAmount"
 							type="number"
 							value={activiaAmount}
@@ -118,6 +119,7 @@ const App = () => {
 					<label>
 						Aantal Cornflakes
 						<input
+							min={0}
 							name="cerealAmount"
 							type="number"
 							value={cerealAmount}
@@ -127,6 +129,7 @@ const App = () => {
 						Aantal Tassen
 						<input
 							name="mugsAmount"
+							min={0}
 							type="number"
 							value={mugsAmount}
 							onChange={handleInputChange}/>
@@ -135,6 +138,7 @@ const App = () => {
 						Aantal Paarse Pringles
 						<input
 							name="pringlesPurpleAmount"
+							min={0}
 							type="number"
 							value={pringlesPurpleAmount}
 							onChange={handleInputChange}/>
@@ -143,6 +147,7 @@ const App = () => {
 						Aantal Rode Pringles
 						<input
 							name="pringlesRedAmount"
+							min={0}
 							type="number"
 							value={pringlesRedAmount}
 							onChange={handleInputChange}/>
